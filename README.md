@@ -1,4 +1,4 @@
-#Flexboxövningar
+# Flexboxövningar
 
 i filen "övningar.css" har ni några kodblock som ni ska använda för att fixa till sidan så den ser ut som bilden.
 filen "no-touchy.css" behöver ni inte röra. men det är ingen fara att kolla i den.
